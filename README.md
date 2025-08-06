@@ -22,4 +22,4 @@ The insights provided by the dashboard enabled quick, data-informed decisions, p
 Link
 
 View Dashboard
-[Dashboard]([url](https://app.powerbi.com/groups/me/reports/c2468f81-0351-481a-af4a-edd5fe73c300/ReportSectionc8b0173ffb8357b284c0?experience=power-bi)) 
+((https://app.powerbi.com/groups/me/reports/c2468f81-0351-481a-af4a-edd5fe73c300/ReportSectionc8b0173ffb8357b284c0?experience=power-bi)) 
